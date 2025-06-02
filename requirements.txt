@@ -1,0 +1,16 @@
+python-dotenv==1.1.0
+qdrant-client
+langchain==0.3.25
+uuid
+PyPDF2==3.0.1
+fastapi
+uvicorn
+motor
+pymongo
+pydantic[email]
+streamlit
+requests
+openai
+langchain-openai
+langchain-community
+regex
